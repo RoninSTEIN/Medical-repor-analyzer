@@ -1,0 +1,7 @@
+total_cholestrol = 0-200
+triglycerides = 0-150
+hdl_cholestrol = 40-60
+ldl_cholestrol = 0-100
+vldl_cholestrol = 5-40
+ldl/hdl_ratio = 0.3- 5.5
+chol/hdl ratio = 0-4.97
